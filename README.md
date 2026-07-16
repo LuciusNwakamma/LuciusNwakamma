@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/LuciusNwakamma/LuciusNwakamma/blob/main/photo_2026-07-16_00-31-59.jpg">
+</p>
 <h1 align="center">Hi, I'm Lucius C. Nwakamma 👋</h1>
 
 <p align="center">
