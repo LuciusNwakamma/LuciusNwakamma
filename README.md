@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @LuciusNwakamma
-- 🌱 I studied Computer Science (Bsc.) at Virginia State University and I'm starting my M.Sc. in Applied Analytics at Columbia University in New          York this fall of 2026. 
-- ⌨️ I'm currently building different projects with diffeernt tools and programming language such as python, javascript, C++, and SQL. Check out my       Quantsight and  VSU Spot robot dog project on my repositories. 
-- 📫 Please, don't hesistate to reach out to me @ luciusnwakamma@gmail.com or lcn2120@columbia.edu
-- ⚡ Fun fact: I love coding 💻 and I also have a strong business acumen. Matter of fact, I own a few businesses in agriculture.
+Lucius C. Nwakamma
+
+M.S. Applied Analytics @ Columbia University 
+B.S. Computer Sciene @ Virginia State University
+
+Interests
+  - Quantitative Research
+  - Algorithimic Trading
+  - Machine Learning
+  - Data Science
+  - Financial Engineering
+  - Software Engineering
+
+Currently Building
+  - QuantLab
+  - QuantSight
+  - Boston Dynamics
+
+Tech Stack
+  * Python    * C++    * SQL    * JavaScript    * PyTorch    * Numpy    * Pandas    * Docker    * Linux
+
+Email: luciusnwakamma@gmail.com or lcn2120@columbia.edu
+Linkedln: https://www.linkedin.com/in/lucius-nwakamma/ 
+
+Visit my website @ www.luciusnwakamma.com to learn more!
 
 <!---
 LuciusNwakamma/LuciusNwakamma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
